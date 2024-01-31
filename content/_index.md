@@ -33,7 +33,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: large-triangles.svg
+          filename: subtle-prism.svg
           filters:
             brightness: 0.5
   - block: stats
